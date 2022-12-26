@@ -1,0 +1,1 @@
+The purpose of this project is to define functions that will use arguments to produce a final product.
